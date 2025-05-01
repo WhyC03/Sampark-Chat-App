@@ -1,4 +1,4 @@
 class ZegoCloudConfig{
-  static const appId = 1069604972;
-  static const appSign = '77d442bfc685a59839a60d0c335476ba93d872a15fd4d329c8429eec9cf3876e';
+  static const appId = 1685634684;
+  static const appSign = 'b34008a07a49885c782883660ee1807ddfdaefeb5892e775ee9b309edf8a44c5';
 }

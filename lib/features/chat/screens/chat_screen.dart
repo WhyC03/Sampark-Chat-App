@@ -84,9 +84,9 @@ class ChatScreen extends StatelessWidget {
                           snapshot.data!.status ?? "",
                           style: TextStyle(
                               fontSize: 12,
-                              color: snapshot.data!.status == 'Online'
-                                  ? Colors.green
-                                  : Colors.grey),
+                              color: snapshot.data!.status == 'Offline'
+                                  ? Colors.grey
+                                  : Colors.green),
                         );
                       }
                     },

@@ -1,0 +1,2 @@
+D:/Flutter Projects/sampark_app/android/app/.cxx/RelWithDebInfo/42y2gy2y/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Flutter Projects/sampark_app/android/app/.cxx/RelWithDebInfo/42y2gy2y/arm64-v8a/CMakeFiles/rebuild_cache.dir
